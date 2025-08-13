@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/poc-telcel/:/",
-    "/content/poc-telcel/configuration:/.helix/config.json",
-    "/content/poc-telcel/metadata:/metadata.json"
+    "/content/test-telcel/:/",
+    "/content/test-telcel/configuration:/.helix/config.json",
+    "/content/test-telcel/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/poc-telcel/"
+    "/content/test-telcel/"
   ]
 }
