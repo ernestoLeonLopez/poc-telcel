@@ -255,5 +255,24 @@
         ]
       }
      ]
+  },
+  {
+    "id": "navLink",
+    "fields": [
+       {
+         "component": "text",
+         "name": "navLink",
+         "value": "",
+         "label": "Nav Link",
+         "valueType": "string"
+       },
+       {
+         "component": "text",
+         "valueType": "string",
+         "name": "textLink",
+         "label": "Text",
+         "value": "Link"
+       }
+     ]
   }
 ]
