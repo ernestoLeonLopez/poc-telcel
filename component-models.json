@@ -262,16 +262,9 @@
        {
          "component": "text",
          "name": "navLink",
-         "value": "",
+         "value": "Text Link",
          "label": "Nav Link",
          "valueType": "string"
-       },
-       {
-         "component": "text",
-         "valueType": "string",
-         "name": "textLink",
-         "label": "Text",
-         "value": "Link"
        }
      ]
   }
